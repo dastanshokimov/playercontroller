@@ -66,3 +66,6 @@ https://allurereport.org/docs/#_installing_a_commandline
 ```bash
 allure serve
 allure serve target/allure-results
+```
+Report example: 
+![img.png](img.png)
