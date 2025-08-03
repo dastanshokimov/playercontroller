@@ -24,7 +24,7 @@ Automated API tests for the `/player` service using **TestNG**, **Rest-Assured**
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/api-tests.git
+git clone https://github.com/dastanshokimov/playercontroller
 cd api-tests
 ```
 2. Run tests
