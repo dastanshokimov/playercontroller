@@ -28,7 +28,7 @@ src/test/java/bugreports/
 
 ```bash
 git clone https://github.com/dastanshokimov/playercontroller
-cd api-tests
+cd playercontroller
 ```
 2. Run tests
 Make sure you have Java and Maven installed.
